@@ -1,0 +1,5 @@
+First_name: Bogdan,
+Last_name Gatsyuk,
+Age: 22,
+Amount_of_pets: 1,
+Wish_salary: 500
