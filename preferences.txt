@@ -1,0 +1,5 @@
+Favorite_Film: Home_Alone,
+Favorite_TV_Shows: Game_of_Thrones,
+Favorite_Food: Grechka,
+Favorite_Season: Winter,
+Favorite_Country: Norway
